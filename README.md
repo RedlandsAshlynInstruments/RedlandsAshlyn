@@ -36,5 +36,6 @@ If your work involves lots of quick testing on the same kinds of samples, go for
 <a href=https://ashlyninstruments.com/product/mb-25-moisture-analyzer/> halogen analyzer</a>. It’s fast, reliable, and gets the job done. But if you need something more flexible that can deal with different sample types, infrared is the better pick.
 
 Final Word
+
 Moisture analyzers might not be the flashiest tools in the lab, but they’re some of the most important. Whether you choose halogen or infrared really depends on what you’re testing and how fast you need answers.
 
